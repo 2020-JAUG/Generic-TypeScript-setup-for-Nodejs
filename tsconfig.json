@@ -4,6 +4,7 @@
         "target": "es2021",
         "module": "es2022",
         "moduleResolution": "Node",
+        "esModuleInterop": true,
         "outDir": "./dist",
         "rootDir": "./lib",
         "declaration": true,

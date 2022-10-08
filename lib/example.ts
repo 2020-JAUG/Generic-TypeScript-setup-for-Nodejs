@@ -24,3 +24,7 @@ export class Something {
 export function mkSomething(length: number, width: number) {
     return new Something(length, width);
 }
+
+export function FAIL(msg: string) {
+    throw new Error(msg);
+}

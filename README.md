@@ -22,7 +22,7 @@
 <br>
 
 
-###<b>File tsconfig.json</b><br>
+### <b>File tsconfig.json</b><br>
 
 ```JavaScript
 {
@@ -71,7 +71,7 @@
 * The inlineSourceMap and inlineSources say to generate source-map data inside JavaScript source files.
 <br>
 
-###<b>File package.json</b><br>
+### <b>File package.json</b><br>
 
 ```JavaScript
 {
